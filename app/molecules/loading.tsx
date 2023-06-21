@@ -6,7 +6,7 @@ export default function Loading() {
         <div className="animate-spin h-10 w-10 border-4 border-blue-500 rounded-full border-t-transparent">読み込み中。</div>
       </div>
       <a href="https://portfolio-site-five-virid.vercel.app/">ホームに戻ります。</a>
-      <p>'Loading...'</p>
+      <p>Loading...</p>
     </>
   );
 }
