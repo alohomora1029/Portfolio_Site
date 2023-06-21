@@ -16,8 +16,7 @@ export default function Header() {
     if (pathname == "/") {
       swiper.slideTo(slide[0]);
     } else {
-      router.push('/')
-      // <a href="http://localhost:3000/"></a>
+     router.push('/');
     }
   };
   return (
