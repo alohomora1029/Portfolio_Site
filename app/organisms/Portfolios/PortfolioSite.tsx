@@ -32,10 +32,10 @@ export default function PortfolioSite() {
           デザインをできるだけスタイリッシュにしたくて、背景画像が波打っている動画にしたかったのですが、どこも有料のため静止画です。徐々に改善していきたいと思います！<br/>
         </p>
         <div className="flex justify-end py-5 pr-5 space-x-5">
-          <a href="https://github.com/natsukiete/make-anki-app/tree/main">
+          <a href="https://github.com/natsukiete/Portfolio_Site">
             <GithubIcon />
           </a>
-          <a href="https://make-anki-app.vercel.app/">
+          <a href="https://portfolio-site-five-virid.vercel.app/">
             <HomeIcon />
           </a>
         </div>
